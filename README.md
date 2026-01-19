@@ -1,4 +1,3 @@
-# git-exam_Student1634835
 # Git Practical Examination
 ## Overview
 This repository is created for the Git practical examination.
